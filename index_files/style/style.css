@@ -14,8 +14,7 @@
   src: url("../fonts/Oswald-VariableFont_wght.ttf");
 }
   /* Logo */
-
-
+  
 .top_logo {
   text-align:center;
   margin-bottom: 5px;
@@ -24,9 +23,6 @@
 .top_logo > img {
 width:200px;
 }
-.top_logo.cls-1:hover {
-  fill: #000000;}
-
 
 /* Navigation bar properties */
 .topnav {
