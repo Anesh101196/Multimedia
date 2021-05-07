@@ -77,6 +77,8 @@ font-size: 17px;
 .topnav input[type=text] {
   border: 1px solid #ccc;  
 }
+}
+
 
 /* Darker background on mouse-over */
 .btn:hover {
@@ -95,7 +97,7 @@ color: #ffffff;
 font-size: 20px;
 }
 .about p{
-padding: 5px;
+padding: 5 px;
 }
 
 body {
